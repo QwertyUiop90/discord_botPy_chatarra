@@ -1,5 +1,4 @@
-# Bot chatarra para discord
-
+# Bot chatarra for discord.
 
 Chatarra is a bot created only because of fun
 so you can contribute only if you want or base your discord bot in this one
